@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="JobsCalc" title="JobsCalc" src="github/jobscalc.gif" width="220px" />
+  <img alt="JobsCalc" title="JobsCalc" src="https://camo.githubusercontent.com/d3503f95699885ed121050a8a137eb0fe6d713b50ea9628f9617a1701925e95c/68747470733a2f2f692e696d6775722e636f6d2f5665716d3747682e706e67" width="220px" />
 </h1>
 
 <p align="center">
